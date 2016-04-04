@@ -50,3 +50,7 @@ However, things are not that easy in the real world:
 3. As found by [Maalej et al](https://mobis.informatik.uni-hamburg.de/wp-content/uploads/2014/06/TOSEM-Maalej-Comprehension-PrePrint2.pdf) (Page 15):
   > ...Industry developers do not use dedicated program comprehension tools
   > ...During comprehension tasks, IDE and specialized tools are used in parallel by developers, despite the fact that the IDE provides similar features.
+
+# A solution for linux
+
+A solution that uses Xnee is detailed in the `linux` folder.
